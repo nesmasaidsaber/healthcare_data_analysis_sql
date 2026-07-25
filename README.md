@@ -1,10 +1,11 @@
 # healthcare_data_analysis_sql
-SQL data analysis of a clinical dataset investigating emergency admission rates, hospital operations, patient demographics, and financial billing anomalies.
+SQL data analysis of a clinical dataset investigating emergency admission rates, hospital operations, patient demographics, and financial billing anomalies. 
 # Healthcare Utilization & Financial Data Analysis (SQL)
 
 ## 📌 Project Overview
 This project delivers a comprehensive data analysis of a healthcare dataset containing around 55,500 patient admission records. Using advanced SQL queries, the analysis evaluates patient demographics, clinical prevalence, operational metrics (Length of Stay), and financial trends to uncover insights into emergency room utilization and payer behaviors.
-
+## 📊 Data Source
+The dataset used for this analysis was sourced from **Kaggle**. It is a heavily normalized, large-scale synthetic healthcare dataset designed for practicing data profiling, database joins, and relational data modeling. 
 ## 🔍 Key Findings
 * **Emergency Admission Baseline:** Exactly **32.9%** of all admissions enter through the emergency department.
 * **The Pediatric Paradox:** While adult patients make up the vast majority of raw emergency room volume, **Pediatric patients hold the highest individual emergency admission rate at 41.4%**.
